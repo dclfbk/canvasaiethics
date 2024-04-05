@@ -287,8 +287,8 @@
 <clipPath id='cp94'>
 <path d='M0 0H842.16V595.5H0Z'/>
 </clipPath>
-<font id='DAAAAA-FiraSans-Regular' horiz-adv-x='558'>
-<font-face font-family='DAAAAA-FiraSans-Regular' units-per-em='1000' ascent='935' descent='265'/>
+<font id='FiraSans-Regular' horiz-adv-x='558'>
+<font-face font-family='FiraSans-Regular' units-per-em='1000' ascent='935' descent='265'/>
 <glyph unicode=' ' horiz-adv-x='265' vert-adv-y='265' d=''/>
 <glyph unicode='A' horiz-adv-x='573' vert-adv-y='573' d='M467 0L415 173H154L102 0H6L227 689H347L567 0H467ZM177 250H392L285 610L177 250Z'/>
 <glyph unicode='B' horiz-adv-x='608' vert-adv-y='608' d='M404 364Q475 352 519 314T563 196Q563 0 290 0H100V689H263Q394 689 463 646Q533 603 533 515Q533 455 495 415Q458 375 404 364ZM195 614V397H299Q359 397 397 426Q436 455 436 508Q436 568 395 591Q355 614 273 614H195ZM290 76Q374 76 418 101Q463 126 463 196Q463 264 420 294T308 324H195V76H290Z'/>
@@ -330,8 +330,8 @@
 <glyph unicode='-' horiz-adv-x='403' vert-adv-y='403' d='M60 274V352H343V274H60Z'/>
 <glyph unicode='©' horiz-adv-x='810' vert-adv-y='810' d='M406 748Q492 748 563 707Q635 667 676 595Q718 524 718 434T676 272Q635 201 563 161Q492 121 406 121T248 161T134 272Q92 344 92 434T134 595Q176 667 248 707Q320 748 406 748ZM406 696Q334 696 276 663Q219 630 186 570T153 434T186 299T276 207Q334 174 406 174Q477 174 534 207Q592 240 625 299T658 434T625 570T534 663Q477 696 406 696ZM408 625Q444 625 471 615T525 585L490 538Q452 565 412 565Q371 565 346 533T321 435Q321 372 345 340Q370 308 412 308Q437 308 456 315Q476 323 496 339L528 291Q476 245 409 245Q335 245 290 295T245 435Q245 495 267 538T326 603T408 625Z'/>
 </font>
-<font id='CAAAAA-BarlowCondensed-Regular' horiz-adv-x='397'>
-<font-face font-family='CAAAAA-BarlowCondensed-Regular' units-per-em='1000' ascent='1000' descent='200'/>
+<font id='BarlowCondensed-Regular' horiz-adv-x='397'>
+<font-face font-family='BarlowCondensed-Regular' units-per-em='1000' ascent='1000' descent='200'/>
 <glyph unicode=' ' horiz-adv-x='200' vert-adv-y='200' d=''/>
 <glyph unicode='C' horiz-adv-x='446' vert-adv-y='446' d='M225-8Q148-8 101 39Q55 86 55 165V536Q55 614 101 661Q148 708 225 708Q303 708 349 661Q396 615 396 536V519Q396 509 386 509L334 506Q324 506 324 516V541Q324 588 297 617T225 646Q181 646 153 617Q126 588 126 541V159Q126 112 153 83Q181 54 225 54Q270 54 297 83T324 159V184Q324 194 334 194L386 191Q396 191 396 181V165Q396 86 349 39T225-8Z'/>
 <glyph unicode='D' horiz-adv-x='465' vert-adv-y='465' d='M82 0Q72 0 72 10V690Q72 700 82 700H236Q313 700 359 649Q405 599 405 514V186Q405 101 359 50Q313 0 236 0H82ZM143 66Q143 62 147 62L235 63Q279 63 305 97Q332 131 333 189V511Q333 570 307 604T235 638H147Q143 638 143 634V66Z'/>
@@ -368,8 +368,8 @@
 <glyph unicode=')' horiz-adv-x='222' vert-adv-y='222' d='M124 763Q132 763 136 756Q175 681 199 569Q224 457 224 334Q224 207 199 92Q174-22 134-97Q130-104 122-104H74Q69-104 66-100Q64-97 66-93Q100-13 122 99Q144 212 144 332Q144 451 122 561Q100 672 66 752Q65 753 65 756T67 761Q70 763 74 763H124Z'/>
 <glyph unicode='-' horiz-adv-x='313' vert-adv-y='313' d='M42 280Q32 280 32 290V332Q32 342 42 342H271Q281 342 281 332V290Q281 280 271 280H42Z'/>
 </font>
-<font id='BAAAAA-BarlowCondensed-Black' horiz-adv-x='449'>
-<font-face font-family='BAAAAA-BarlowCondensed-Black' units-per-em='1000' ascent='1000' descent='200'/>
+<font id='BarlowCondensed-Black' horiz-adv-x='449'>
+<font-face font-family='BarlowCondensed-Black' units-per-em='1000' ascent='1000' descent='200'/>
 <glyph unicode=' ' horiz-adv-x='200' vert-adv-y='200' d=''/>
 <glyph unicode='A' horiz-adv-x='531' vert-adv-y='531' d='M341 0Q326 0 325 14L314 89Q314 91 312 93T307 95H219Q216 95 214 93T212 89L202 14Q201 0 186 0H29Q13 0 16 16L158 687Q161 700 175 700H357Q371 700 374 687L516 16V12Q516 0 502 0H341ZM234 245Q234 239 239 239H286Q293 239 291 245L264 425Q263 429 261 429T258 425L234 245Z'/>
 <glyph unicode='C' horiz-adv-x='476' vert-adv-y='476' d='M239-8Q140-8 80 50T20 205V497Q20 594 79 651Q139 708 239 708Q338 708 398 651T458 497V492Q458 485 454 480Q450 476 443 476L285 471Q270 471 270 485V510Q270 527 261 537Q253 547 239 547T216 537Q208 527 208 510V189Q208 172 216 162Q225 153 239 153T261 162Q270 172 270 189V216Q270 230 285 230L443 225Q450 225 454 220Q458 216 458 209V205Q458 141 430 92Q403 44 353 18Q304-8 239-8Z'/>
@@ -414,8 +414,8 @@
 <glyph unicode=')' horiz-adv-x='371' vert-adv-y='371' d='M225 756Q235 756 243 747Q300 669 334 569Q368 470 368 336Q368 94 243-74Q235-83 225-83H70Q62-83 58-78Q55-73 59-66Q104 27 131 119Q158 212 158 336Q158 461 131 552Q104 644 59 739Q57 745 57 746Q57 756 70 756H225Z'/>
 <glyph unicode='’' horiz-adv-x='231' vert-adv-y='231' d='M213 700Q221 700 224 695Q227 691 225 683L152 472Q148 460 135 460H17Q0 460 3 476L41 686Q44 700 57 700H213Z'/>
 </font>
-<font id='AAAAAA-BarlowCondensed-Bold' horiz-adv-x='428'>
-<font-face font-family='AAAAAA-BarlowCondensed-Bold' units-per-em='1000' ascent='1000' descent='200'/>
+<font id='BarlowCondensed-Bold' horiz-adv-x='428'>
+<font-face font-family='BarlowCondensed-Bold' units-per-em='1000' ascent='1000' descent='200'/>
 <glyph unicode=' ' horiz-adv-x='200' vert-adv-y='200' d=''/>
 <glyph unicode='A' horiz-adv-x='482' vert-adv-y='482' d='M338 0Q326 0 325 11L309 107Q309 112 303 112H176Q170 112 170 107L154 11Q153 0 141 0H24Q11 0 14 13L161 689Q163 700 174 700H309Q320 700 322 689L468 13L469 9Q469 0 458 0H338ZM190 226Q190 221 194 221H284Q289 221 288 226L241 499Q240 502 238 502T235 499L190 226Z'/>
 <glyph unicode='C' horiz-adv-x='464' vert-adv-y='464' d='M233-8Q143-8 88 45Q34 99 34 189V513Q34 602 88 655Q143 708 233 708Q324 708 378 655Q433 602 433 513V502Q433 497 429 493Q426 490 421 490L304 485Q292 485 292 496V522Q292 551 276 569T233 587Q207 587 191 569T175 522V177Q175 148 191 130Q207 113 233 113Q260 113 276 130Q292 148 292 177V204Q292 209 295 212Q299 216 304 216L421 211Q426 211 429 207Q433 204 433 199V189Q433 99 378 45Q323-8 233-8Z'/>
@@ -464,17 +464,17 @@
 </font>
 </defs>
 <style type='text/css'>
-<![CDATA[text.f0 {font-family:AAAAAA-BarlowCondensed-Bold;font-size:12.5px}
-text.f1 {font-family:BAAAAA-BarlowCondensed-Black;font-size:12.5px}
-text.f2 {font-family:CAAAAA-BarlowCondensed-Regular;font-size:12.5px}
-text.f3 {font-family:AAAAAA-BarlowCondensed-Bold;font-size:81.3px}
-text.f4 {font-family:CAAAAA-BarlowCondensed-Regular;font-size:16px}
-text.f5 {font-family:DAAAAA-FiraSans-Regular;font-size:18.1px}
-text.f6 {font-family:BAAAAA-BarlowCondensed-Black;font-size:13.3px}
-text.f7 {font-family:CAAAAA-BarlowCondensed-Regular;font-size:13.3px}
-text.f8 {font-family:AAAAAA-BarlowCondensed-Bold;font-size:16px}
-text.f9 {font-family:BAAAAA-BarlowCondensed-Black;font-size:16px}
-text.f10 {font-family:DAAAAA-FiraSans-Regular;font-size:12px}
+<![CDATA[text.f0 {font-family:BarlowCondensed-Bold;font-size:12.5px}
+text.f1 {font-family:BarlowCondensed-Black;font-size:12.5px}
+text.f2 {font-family:BarlowCondensed-Regular;font-size:12.5px}
+text.f3 {font-family:BarlowCondensed-Bold;font-size:81.3px}
+text.f4 {font-family:BarlowCondensed-Regular;font-size:16px}
+text.f5 {font-family:FiraSans-Regular;font-size:18.1px}
+text.f6 {font-family:BarlowCondensed-Black;font-size:13.3px}
+text.f7 {font-family:BarlowCondensed-Regular;font-size:13.3px}
+text.f8 {font-family:BarlowCondensed-Bold;font-size:16px}
+text.f9 {font-family:BarlowCondensed-Black;font-size:16px}
+text.f10 {font-family:FiraSans-Regular;font-size:12px}
 ]]>
 </style>
 <g id='page1'>

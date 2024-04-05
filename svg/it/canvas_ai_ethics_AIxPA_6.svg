@@ -110,8 +110,8 @@
 <clipPath id='cp35'>
 <path d='M0 0H842.16V595.5H0Z'/>
 </clipPath>
-<font id='CAAAAA-BarlowCondensed-Regular' horiz-adv-x='397'>
-<font-face font-family='CAAAAA-BarlowCondensed-Regular' units-per-em='1000' ascent='1000' descent='200'/>
+<font id='BarlowCondensed-Regular' horiz-adv-x='397'>
+<font-face font-family='BarlowCondensed-Regular' units-per-em='1000' ascent='1000' descent='200'/>
 <glyph unicode=' ' horiz-adv-x='200' vert-adv-y='200' d=''/>
 <glyph unicode='A' horiz-adv-x='410' vert-adv-y='410' d='M336 0Q327 0 325 9L300 133Q300 135 298 136Q297 137 295 137H114Q112 137 110 136Q109 135 109 133L84 9Q83 0 73 0H22Q17 0 14 3Q12 6 13 11L163 691Q165 700 174 700H234Q244 700 245 691L397 11V9Q397 0 388 0H336ZM122 199Q122 195 125 195H283Q286 195 286 199L206 592Q205 595 204 595T202 592L122 199Z'/>
 <glyph unicode='I' horiz-adv-x='215' vert-adv-y='215' d='M82 0Q72 0 72 10V690Q72 700 82 700H133Q143 700 143 690V10Q143 0 133 0H82Z'/>
@@ -145,8 +145,8 @@
 <glyph unicode='-' horiz-adv-x='313' vert-adv-y='313' d='M42 280Q32 280 32 290V332Q32 342 42 342H271Q281 342 281 332V290Q281 280 271 280H42Z'/>
 <glyph unicode='’' horiz-adv-x='123' vert-adv-y='123' d='M111 700Q122 700 119 689L60 503Q57 495 48 495H11Q0 495 3 506L48 691Q50 700 59 700H111Z'/>
 </font>
-<font id='BAAAAA-FiraSans-Regular' horiz-adv-x='558'>
-<font-face font-family='BAAAAA-FiraSans-Regular' units-per-em='1000' ascent='935' descent='265'/>
+<font id='FiraSans-Regular' horiz-adv-x='558'>
+<font-face font-family='FiraSans-Regular' units-per-em='1000' ascent='935' descent='265'/>
 <glyph unicode=' ' horiz-adv-x='265' vert-adv-y='265' d=''/>
 <glyph unicode='A' horiz-adv-x='573' vert-adv-y='573' d='M467 0L415 173H154L102 0H6L227 689H347L567 0H467ZM177 250H392L285 610L177 250Z'/>
 <glyph unicode='B' horiz-adv-x='608' vert-adv-y='608' d='M404 364Q475 352 519 314T563 196Q563 0 290 0H100V689H263Q394 689 463 646Q533 603 533 515Q533 455 495 415Q458 375 404 364ZM195 614V397H299Q359 397 397 426Q436 455 436 508Q436 568 395 591Q355 614 273 614H195ZM290 76Q374 76 418 101Q463 126 463 196Q463 264 420 294T308 324H195V76H290Z'/>
@@ -191,8 +191,8 @@
 <glyph unicode='-' horiz-adv-x='403' vert-adv-y='403' d='M60 274V352H343V274H60Z'/>
 <glyph unicode='©' horiz-adv-x='810' vert-adv-y='810' d='M406 748Q492 748 563 707Q635 667 676 595Q718 524 718 434T676 272Q635 201 563 161Q492 121 406 121T248 161T134 272Q92 344 92 434T134 595Q176 667 248 707Q320 748 406 748ZM406 696Q334 696 276 663Q219 630 186 570T153 434T186 299T276 207Q334 174 406 174Q477 174 534 207Q592 240 625 299T658 434T625 570T534 663Q477 696 406 696ZM408 625Q444 625 471 615T525 585L490 538Q452 565 412 565Q371 565 346 533T321 435Q321 372 345 340Q370 308 412 308Q437 308 456 315Q476 323 496 339L528 291Q476 245 409 245Q335 245 290 295T245 435Q245 495 267 538T326 603T408 625Z'/>
 </font>
-<font id='AAAAAA-BarlowCondensed-Bold' horiz-adv-x='428'>
-<font-face font-family='AAAAAA-BarlowCondensed-Bold' units-per-em='1000' ascent='1000' descent='200'/>
+<font id='BarlowCondensed-Bold' horiz-adv-x='428'>
+<font-face font-family='BarlowCondensed-Bold' units-per-em='1000' ascent='1000' descent='200'/>
 <glyph unicode=' ' horiz-adv-x='200' vert-adv-y='200' d=''/>
 <glyph unicode='R' horiz-adv-x='471' vert-adv-y='471' d='M320 0Q309 0 306 10L229 286Q227 290 224 290H190Q185 290 185 285V12Q185 7 181 3Q178 0 173 0H56Q51 0 47 3Q44 7 44 12V688Q44 693 47 696Q51 700 56 700H258Q313 700 356 673Q399 647 422 599Q446 551 446 489Q446 430 423 385Q401 340 361 315Q359 314 358 312Q357 311 358 309L450 14L451 10Q451 0 440 0H320ZM190 579Q185 579 185 574V403Q185 398 190 398H235Q266 398 285 422Q305 447 305 488Q305 530 285 554Q266 579 235 579H190Z'/>
 <glyph unicode='c' horiz-adv-x='434' vert-adv-y='434' d='M220-8Q132-8 81 37Q31 82 31 160V354Q31 430 81 476Q132 522 220 522T358 477Q409 432 409 360V342Q409 337 405 333Q402 330 397 330L280 325Q268 325 268 337V349Q268 371 254 386Q241 401 220 401Q198 401 185 385T172 343V171Q172 145 185 129T220 113Q241 113 254 128Q268 144 268 165V178Q268 183 271 186Q275 190 280 190L397 189Q402 189 405 185Q409 182 409 177V154Q409 80 358 36Q308-8 220-8Z'/>
@@ -206,12 +206,12 @@
 </font>
 </defs>
 <style type='text/css'>
-<![CDATA[text.f0 {font-family:AAAAAA-BarlowCondensed-Bold;font-size:81.3px}
-text.f1 {font-family:BAAAAA-FiraSans-Regular;font-size:16px}
-text.f2 {font-family:CAAAAA-BarlowCondensed-Regular;font-size:12.5px}
-text.f3 {font-family:CAAAAA-BarlowCondensed-Regular;font-size:16px}
-text.f4 {font-family:BAAAAA-FiraSans-Regular;font-size:18.1px}
-text.f5 {font-family:BAAAAA-FiraSans-Regular;font-size:12px}
+<![CDATA[text.f0 {font-family:BarlowCondensed-Bold;font-size:81.3px}
+text.f1 {font-family:FiraSans-Regular;font-size:16px}
+text.f2 {font-family:BarlowCondensed-Regular;font-size:12.5px}
+text.f3 {font-family:BarlowCondensed-Regular;font-size:16px}
+text.f4 {font-family:FiraSans-Regular;font-size:18.1px}
+text.f5 {font-family:FiraSans-Regular;font-size:12px}
 ]]>
 </style>
 <g id='page1'>
