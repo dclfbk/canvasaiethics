@@ -27,8 +27,8 @@ pdftk AIxPA_muto.pdf cat 1 output canvas_ai_ethics_AIxPA_1.pdf
 pdf2svg canvas_ai_ethics_AIxPA_1.pdf canvas_ai_ethics_AIxPA_1.svg
 ```
 
-#E sources
-ITALIAN VERSION SOURCE:<br/>
+## sources
+### italian
 https://www.canva.com/design/DAF-pihOVVo/P5MajTVQclYU3wk8PgA3RQ/edit
 
 ![](svg/it/canvas_ai_ethics_AIxPA_1.svg)
