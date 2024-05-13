@@ -4,11 +4,23 @@ a canvas to plan the development of an AI solution
 ## description
 [A canvas to design and deploy ethical artificial intelligence for public administrations. The experience of the Autonomous Province of Trento, Italy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4819535)
 
-## fonts used
+## download pdf
+
+[italian version](https://github.com/dclfbk/canvasaiethics/blob/main/pdf/it/canvas_ai_ethics_AIxPA.pdf)
+
+### sources
+<!-- https://www.canva.com/design/DAF-pihOVVo/P5MajTVQclYU3wk8PgA3RQ/edit -->
+
+italian version<br/>
+![](svg/it/canvas_ai_ethics_AIxPA_1.svg)
+
+
+#### technical issues
+##### fonts used
 -  [Barlow Condensed](https://fonts.google.com/specimen/Barlow+Condensed)
 -  [Fira Sans](https://fonts.google.com/specimen/Fira+Sans)
 
-## CLI PDF2SVG converter
+##### cli PDF2SVG converter
 ```bash
   pdf2svg input.pdf output_page%d.svg all
 ```
@@ -19,7 +31,7 @@ a canvas to plan the development of an AI solution
 ```bash
   pdftk AIxPA_muto.pdf cat 6 output canvas_ai_ethics_AIxPA_7.pdf
 ```
-### bash script
+##### bash script
 ```bash
 for i in {2..6};
   do
@@ -29,9 +41,3 @@ done
 pdftk AIxPA_muto.pdf cat 1 output canvas_ai_ethics_AIxPA_1.pdf
 pdf2svg canvas_ai_ethics_AIxPA_1.pdf canvas_ai_ethics_AIxPA_1.svg
 ```
-
-## sources
-### italian
-https://www.canva.com/design/DAF-pihOVVo/P5MajTVQclYU3wk8PgA3RQ/edit
-
-![](svg/it/canvas_ai_ethics_AIxPA_1.svg)
