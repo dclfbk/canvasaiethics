@@ -13,7 +13,7 @@ a canvas to plan the development of an AI solution
 ![](svg/it/canvas_ai_ethics_AIxPA_1.svg)\
 [download italian version](https://github.com/dclfbk/canvasaiethics/blob/main/pdf/it/canvas_ai_ethics_AIxPA.pdf)
 
-## sources
+<!-- ### sources -->
 <!-- https://www.canva.com/design/DAF-pihOVVo/P5MajTVQclYU3wk8PgA3RQ/edit -->
 
 
