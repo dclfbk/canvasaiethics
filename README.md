@@ -5,7 +5,7 @@ a canvas to plan the development of an AI solution
 [A canvas to design and deploy ethical artificial intelligence for public administrations. The experience of the Autonomous Province of Trento, Italy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4819535)
 
 ## download pdf
-
+[english version](https://github.com/dclfbk/canvasaiethics/blob/main/pdf/en/canvas_ai_ethics_AIxPA_en.pdf)\
 [italian version](https://github.com/dclfbk/canvasaiethics/blob/main/pdf/it/canvas_ai_ethics_AIxPA.pdf)
 
 ### sources
