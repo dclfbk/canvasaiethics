@@ -1,3 +1,5 @@
+versione in italiano [qui](README_it.md)
+
 # canvas AI ethics
 a canvas to plan the development of an AI solution
 
@@ -9,14 +11,9 @@ CUP: C49G22001020001
 
 
 ## download pdf
-### italian version
-![](svg/it/canvas_ai_ethics_AIxPA_1.svg)\
-[download italian version](https://github.com/dclfbk/canvasaiethics/blob/main/pdf/it/canvas_ai_ethics_AIxPA.pdf)
-
 ### english version
 ![](svg/en/canvas_ai_ethics_AIxPA_1.svg)\
 [english version](https://github.com/dclfbk/canvasaiethics/blob/main/pdf/en/canvas_ai_ethics_AIxPA_en.pdf)
-
 
 
 <!-- ### sources -->
